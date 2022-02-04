@@ -1,6 +1,6 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/BobsDailywebsiteimage.png");
-  background-position: 80.97% 33.09%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/1.png");
+  background-position: 61.18% 27.51%;
   background-size: 125%;
 }
 
@@ -12,7 +12,7 @@
   width: 675px;
   min-height: 482px;
   height: auto;
-  margin: 296px 0 19px auto;
+  margin: 298px -35px 17px auto;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -29,7 +29,7 @@
 .u-section-1 .u-text-2 {
   letter-spacing: 2px;
   font-size: 1.25rem;
-  margin: -47px 0 0;
+  margin: -59px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -90,6 +90,7 @@
 
   .u-section-1 .u-group-1 {
     width: 400px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -434,7 +435,7 @@
   width: 128px;
   height: 128px;
   background-image: none;
-  margin: 37px auto 0;
+  margin: 33px auto 0;
 }
 
 .u-section-3 .u-icon-2 {
@@ -446,14 +447,6 @@
 .u-section-3 .u-text-2 {
   font-weight: 700;
   margin: 40px 0 0;
-}
-
-.u-section-3 .u-btn-1 {
-  font-size: 0.875rem;
-  border-style: solid;
-  font-weight: 700;
-  text-transform: uppercase;
-  margin: 75px auto 0;
 }
 
 .u-section-3 .u-layout-cell-3 {
@@ -489,7 +482,7 @@
 .u-section-3 .u-group-1 {
   width: 855px;
   min-height: 193px;
-  margin: -532px 0 60px auto;
+  margin: -532px 0 0 auto;
 }
 
 .u-section-3 .u-container-layout-4 {
@@ -507,9 +500,17 @@
   margin: 20px 0 0 355px;
 }
 
+.u-section-3 .u-btn-1 {
+  font-size: 0.875rem;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 313px auto 60px;
+}
+
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 465px;
+    min-height: 456px;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -586,7 +587,7 @@
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 311px;
+    min-height: 260px;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -672,7 +673,7 @@
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 411px;
+    min-height: 360px;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -745,7 +746,7 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 171px;
+    min-height: 120px;
   }
 
   .u-section-3 .u-shape-1 {
