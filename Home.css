@@ -1,6 +1,6 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/76.png");
-  background-position: 100% 37.64%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/BobsDailywebsiteimage.png");
+  background-position: 80.97% 33.09%;
   background-size: 125%;
 }
 
@@ -192,7 +192,7 @@
 }
 
 .u-section-2 .u-text-2 {
-  font-size: 1.125rem;
+  font-size: 1.875rem;
   margin: 0 -102px 0 20px;
 }
 
@@ -369,7 +369,8 @@
     min-height: 395px;
   }
 } .u-section-3 {
-  background-image: none;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/pexelsphoto1036379.jpeg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -910,11 +911,12 @@
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 682px;
+  min-height: 734px;
 }
 
 .u-section-4 .u-layout-wrap-1 {
-  margin: -83px auto 0 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-4 .u-layout-cell-1 {
@@ -927,18 +929,12 @@
   margin: 0 53px 0 auto;
 }
 
-.u-section-4 .u-image-2 {
-  width: 437px;
-  height: 461px;
-  margin: -529px -228px 0 auto;
-}
-
 .u-section-4 .u-text-1 {
   font-weight: 700;
   text-align: right;
   font-size: 3rem;
   font-style: italic;
-  margin: 74px 0 0 15px;
+  margin: 6px 0 0 15px;
 }
 
 .u-section-4 .u-layout-cell-2 {
@@ -953,7 +949,7 @@
   margin: 37px 125px 0 -72px;
 }
 
-.u-section-4 .u-image-3 {
+.u-section-4 .u-image-2 {
   width: 303px;
   height: 410px;
   object-position: 55.44% 0%;
@@ -964,7 +960,8 @@
 .u-section-4 .u-group-1 {
   width: 570px;
   min-height: 175px;
-  margin: 28px 0 35px auto;
+  height: auto;
+  margin: -20px 0 0 auto;
 }
 
 .u-section-4 .u-container-layout-3 {
@@ -986,11 +983,6 @@
     min-height: 400px;
   }
 
-  .u-section-4 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
-  }
-
   .u-section-4 .u-layout-cell-1 {
     min-height: 435px;
   }
@@ -1006,6 +998,10 @@
   .u-section-4 .u-text-2 {
     margin-right: 0;
     margin-left: 0;
+  }
+
+  .u-section-4 .u-group-1 {
+    height: auto;
   }
 
   .u-section-4 .u-container-layout-3 {
