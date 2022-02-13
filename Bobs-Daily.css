@@ -942,6 +942,7 @@
 .u-section-6 .u-text-1 {
   font-weight: 500;
   text-transform: none;
+  font-size: 1.875rem;
   margin: 20px auto 0;
 }
 
@@ -1079,10 +1080,6 @@
 
   .u-section-6 .u-repeater-1 {
     min-height: 456px;
-  }
-
-  .u-section-6 .u-text-1 {
-    font-size: 1.875rem;
   }
 }
 
